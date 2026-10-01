@@ -1,0 +1,22 @@
+
+> claude-multiagent-code-review-starter@1.0.0 dev
+> tsx src/main.ts octocat Hello-World 1
+
+🔐 Using Anthropic API authentication
+⚠️  GITHUB_TOKEN not set. Public repos work, but you may hit rate limits.
+
+🔍 Reviewing octocat/Hello-World PR #1 using claude-sonnet-4-5-20250929
+   This can take several minutes (three subagents run in parallel)...
+
+2026-09-30 19:32:22 [[32minfo[39m]: Subagent invoked: code-quality-analyzer
+2026-09-30 19:32:28 [[32minfo[39m]: Subagent invoked: test-coverage-analyzer
+2026-09-30 19:32:33 [[32minfo[39m]: Subagent invoked: refactoring-suggester
+2026-09-30 19:32:35 [[32minfo[39m]: Skill invoked (inside subagent): javascript-best-practices
+2026-09-30 19:32:35 [[32minfo[39m]: Skill invoked: javascript-best-practices
+2026-09-30 19:33:26 [[32minfo[39m]: Skills used: javascript-best-practices
+2026-09-30 19:33:26 [[32minfo[39m]: Subagents used: code-quality-analyzer, test-coverage-analyzer, refactoring-suggester
+✅ Review complete!
+   Overall score: 52/100
+   JSON:     /voc/work/cd14715-claude-code-classroom/project/starter/reports/octocat_Hello-World_1.json
+   Markdown: /voc/work/cd14715-claude-code-classroom/project/starter/reports/octocat_Hello-World_1.md
+   HTML:     /voc/work/cd14715-claude-code-classroom/project/starter/reports/octocat_Hello-World_1.html

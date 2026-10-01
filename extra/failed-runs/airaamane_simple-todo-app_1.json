@@ -1,0 +1,32 @@
+{
+  "pullRequest": {
+    "owner": "airaamane",
+    "repo": "simple-todo-app",
+    "number": 1
+  },
+  "fileReviews": [],
+  "summary": {
+    "totalFiles": 0,
+    "overallScore": 0,
+    "criticalIssues": 0,
+    "highPriorityTests": 0,
+    "refactoringOpportunities": 0
+  },
+  "recommendations": [
+    {
+      "priority": "critical",
+      "category": "Access Error",
+      "description": "Unable to access pull request #1 in repository airaamane/simple-todo-app. The GitHub API returned 'Not Found' errors. Please verify the repository exists, is accessible, and that pull request #1 exists. If the repository is private, ensure proper GitHub authentication is configured.",
+      "files": []
+    }
+  ],
+  "metadata": {
+    "analyzedAt": "2026-09-30T00:00:00.000Z",
+    "duration": 32492,
+    "agentVersions": {
+      "code-quality-analyzer": "1.0.0",
+      "test-coverage-analyzer": "1.0.0",
+      "refactoring-suggester": "1.0.0"
+    }
+  }
+}

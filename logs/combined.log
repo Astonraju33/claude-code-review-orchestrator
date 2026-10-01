@@ -1,0 +1,59 @@
+{"level":"info","message":"Subagent invoked: code-quality-analyzer","service":"code-review-system","timestamp":"2026-09-30 18:18:05"}
+{"level":"info","message":"Subagent invoked: test-coverage-analyzer","service":"code-review-system","timestamp":"2026-09-30 18:18:12"}
+{"level":"info","message":"Subagent invoked: refactoring-suggester","service":"code-review-system","timestamp":"2026-09-30 18:18:18"}
+{"level":"info","message":"Subagents used: code-quality-analyzer, test-coverage-analyzer, refactoring-suggester","service":"code-review-system","timestamp":"2026-09-30 18:19:35"}
+{"level":"info","message":"Subagents used: none","service":"code-review-system","timestamp":"2026-09-30 18:22:38"}
+{"level":"info","message":"Subagents used: none","service":"code-review-system","timestamp":"2026-09-30 18:23:14"}
+{"level":"info","message":"Subagents used: none","service":"code-review-system","timestamp":"2026-09-30 18:23:58"}
+{"level":"info","message":"Subagent invoked: code-quality-analyzer","service":"code-review-system","timestamp":"2026-09-30 18:33:50"}
+{"level":"info","message":"Subagent invoked: test-coverage-analyzer","service":"code-review-system","timestamp":"2026-09-30 18:33:57"}
+{"level":"info","message":"Subagent invoked: refactoring-suggester","service":"code-review-system","timestamp":"2026-09-30 18:34:02"}
+{"level":"info","message":"Skill invoked (inside subagent): javascript-best-practices","service":"code-review-system","timestamp":"2026-09-30 18:34:05"}
+{"level":"info","message":"Skill invoked: javascript-best-practices","service":"code-review-system","timestamp":"2026-09-30 18:34:05"}
+{"level":"info","message":"Skills used: javascript-best-practices","service":"code-review-system","timestamp":"2026-09-30 18:36:23"}
+{"level":"info","message":"Subagents used: code-quality-analyzer, test-coverage-analyzer, refactoring-suggester","service":"code-review-system","timestamp":"2026-09-30 18:36:23"}
+{"level":"info","message":"Skills used: none","service":"code-review-system","timestamp":"2026-09-30 18:46:44"}
+{"level":"info","message":"Subagents used: none","service":"code-review-system","timestamp":"2026-09-30 18:46:44"}
+{"level":"info","message":"Skills used: none","service":"code-review-system","timestamp":"2026-09-30 18:47:19"}
+{"level":"info","message":"Subagents used: none","service":"code-review-system","timestamp":"2026-09-30 18:47:19"}
+{"level":"info","message":"Skills used: none","service":"code-review-system","timestamp":"2026-09-30 18:48:14"}
+{"level":"info","message":"Subagents used: none","service":"code-review-system","timestamp":"2026-09-30 18:48:14"}
+{"level":"info","message":"Subagent invoked: code-quality-analyzer","service":"code-review-system","timestamp":"2026-09-30 19:32:22"}
+{"level":"info","message":"Subagent invoked: test-coverage-analyzer","service":"code-review-system","timestamp":"2026-09-30 19:32:28"}
+{"level":"info","message":"Subagent invoked: refactoring-suggester","service":"code-review-system","timestamp":"2026-09-30 19:32:33"}
+{"level":"info","message":"Skill invoked (inside subagent): javascript-best-practices","service":"code-review-system","timestamp":"2026-09-30 19:32:35"}
+{"level":"info","message":"Skill invoked: javascript-best-practices","service":"code-review-system","timestamp":"2026-09-30 19:32:35"}
+{"level":"info","message":"Skills used: javascript-best-practices","service":"code-review-system","timestamp":"2026-09-30 19:33:26"}
+{"level":"info","message":"Subagents used: code-quality-analyzer, test-coverage-analyzer, refactoring-suggester","service":"code-review-system","timestamp":"2026-09-30 19:33:26"}
+{"level":"info","message":"Subagent invoked: code-quality-analyzer","service":"code-review-system","timestamp":"2026-09-30 19:33:58"}
+{"level":"info","message":"Subagent invoked: test-coverage-analyzer","service":"code-review-system","timestamp":"2026-09-30 19:34:04"}
+{"level":"info","message":"Subagent invoked: refactoring-suggester","service":"code-review-system","timestamp":"2026-09-30 19:34:09"}
+{"level":"info","message":"Skill invoked (inside subagent): javascript-best-practices","service":"code-review-system","timestamp":"2026-09-30 19:34:13"}
+{"level":"info","message":"Skill invoked: javascript-best-practices","service":"code-review-system","timestamp":"2026-09-30 19:34:13"}
+{"level":"info","message":"Skills used: javascript-best-practices","service":"code-review-system","timestamp":"2026-09-30 19:34:44"}
+{"level":"info","message":"Subagents used: code-quality-analyzer, test-coverage-analyzer, refactoring-suggester","service":"code-review-system","timestamp":"2026-09-30 19:34:44"}
+{"level":"info","message":"Subagent invoked: code-quality-analyzer","service":"code-review-system","timestamp":"2026-09-30 19:35:26"}
+{"level":"info","message":"Subagent invoked: test-coverage-analyzer","service":"code-review-system","timestamp":"2026-09-30 19:35:32"}
+{"level":"info","message":"Subagent invoked: refactoring-suggester","service":"code-review-system","timestamp":"2026-09-30 19:35:36"}
+{"level":"info","message":"Skill invoked (inside subagent): javascript-best-practices","service":"code-review-system","timestamp":"2026-09-30 19:35:39"}
+{"level":"info","message":"Skill invoked: javascript-best-practices","service":"code-review-system","timestamp":"2026-09-30 19:35:39"}
+{"level":"info","message":"Skills used: javascript-best-practices","service":"code-review-system","timestamp":"2026-09-30 19:36:46"}
+{"level":"info","message":"Subagents used: code-quality-analyzer, test-coverage-analyzer, refactoring-suggester","service":"code-review-system","timestamp":"2026-09-30 19:36:46"}
+{"level":"info","message":"Skills used: none","service":"code-review-system","timestamp":"2026-09-30 19:43:44"}
+{"level":"info","message":"Subagents used: none","service":"code-review-system","timestamp":"2026-09-30 19:43:44"}
+{"level":"info","message":"Subagent invoked: code-quality-analyzer","service":"code-review-system","timestamp":"2026-09-30 19:47:30"}
+{"level":"info","message":"Subagent invoked: test-coverage-analyzer","service":"code-review-system","timestamp":"2026-09-30 19:47:36"}
+{"level":"info","message":"Subagent invoked: refactoring-suggester","service":"code-review-system","timestamp":"2026-09-30 19:47:40"}
+{"level":"info","message":"Skill invoked (inside subagent): javascript-best-practices","service":"code-review-system","timestamp":"2026-09-30 19:47:43"}
+{"level":"info","message":"Skill invoked: javascript-best-practices","service":"code-review-system","timestamp":"2026-09-30 19:47:43"}
+{"level":"info","message":"Skills used: javascript-best-practices","service":"code-review-system","timestamp":"2026-09-30 19:49:12"}
+{"level":"info","message":"Subagents used: code-quality-analyzer, test-coverage-analyzer, refactoring-suggester","service":"code-review-system","timestamp":"2026-09-30 19:49:12"}
+{"level":"info","message":"Skills used: none","service":"code-review-system","timestamp":"2026-09-30 20:19:53"}
+{"level":"info","message":"Subagents used: none","service":"code-review-system","timestamp":"2026-09-30 20:19:53"}
+{"level":"info","message":"Subagent invoked: code-quality-analyzer","service":"code-review-system","timestamp":"2026-09-30 20:20:19"}
+{"level":"info","message":"Subagent invoked: test-coverage-analyzer","service":"code-review-system","timestamp":"2026-09-30 20:20:23"}
+{"level":"info","message":"Subagent invoked: refactoring-suggester","service":"code-review-system","timestamp":"2026-09-30 20:20:27"}
+{"level":"info","message":"Skill invoked (inside subagent): javascript-best-practices","service":"code-review-system","timestamp":"2026-09-30 20:20:29"}
+{"level":"info","message":"Skill invoked: javascript-best-practices","service":"code-review-system","timestamp":"2026-09-30 20:20:29"}
+{"level":"info","message":"Skills used: javascript-best-practices","service":"code-review-system","timestamp":"2026-09-30 20:20:57"}
+{"level":"info","message":"Subagents used: code-quality-analyzer, test-coverage-analyzer, refactoring-suggester","service":"code-review-system","timestamp":"2026-09-30 20:20:57"}

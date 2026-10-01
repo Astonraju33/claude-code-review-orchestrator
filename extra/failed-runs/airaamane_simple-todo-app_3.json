@@ -1,0 +1,32 @@
+{
+  "pullRequest": {
+    "owner": "airaamane",
+    "repo": "simple-todo-app",
+    "number": 3
+  },
+  "fileReviews": [],
+  "summary": {
+    "totalFiles": 0,
+    "overallScore": 0,
+    "criticalIssues": 0,
+    "highPriorityTests": 0,
+    "refactoringOpportunities": 0
+  },
+  "recommendations": [
+    {
+      "priority": "critical",
+      "category": "Access Issue",
+      "description": "Cannot access repository 'airaamane/simple-todo-app'. The repository either doesn't exist, is private, or has been removed. Verified that user 'airaamane' only has one public repository 'airaamane-dev'. Please verify the repository name and ensure proper access credentials are configured.",
+      "files": []
+    }
+  ],
+  "metadata": {
+    "analyzedAt": "2026-09-30T00:00:00.000Z",
+    "duration": 37535,
+    "agentVersions": {
+      "code-quality-analyzer": "1.0.0",
+      "test-coverage-analyzer": "1.0.0",
+      "refactoring-suggester": "1.0.0"
+    }
+  }
+}

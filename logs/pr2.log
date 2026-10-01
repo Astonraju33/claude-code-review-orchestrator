@@ -1,0 +1,17 @@
+
+> claude-multiagent-code-review-starter@1.0.0 dev
+> tsx src/main.ts airaamane simple-todo-app 2
+
+🔐 Using Anthropic API authentication
+⚠️  GITHUB_TOKEN not set. Public repos work, but you may hit rate limits.
+
+🔍 Reviewing airaamane/simple-todo-app PR #2 using claude-sonnet-4-5-20250929
+   This can take several minutes (three subagents run in parallel)...
+
+2026-09-30 18:47:19 [[32minfo[39m]: Skills used: none
+2026-09-30 18:47:19 [[32minfo[39m]: Subagents used: none
+✅ Review complete!
+   Overall score: 0/100
+   JSON:     /voc/work/cd14715-claude-code-classroom/project/starter/reports/airaamane_simple-todo-app_2.json
+   Markdown: /voc/work/cd14715-claude-code-classroom/project/starter/reports/airaamane_simple-todo-app_2.md
+   HTML:     /voc/work/cd14715-claude-code-classroom/project/starter/reports/airaamane_simple-todo-app_2.html
